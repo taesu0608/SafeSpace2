@@ -1,0 +1,67 @@
+[{
+  "category": {
+    "id": "a",
+    "categoryName": "movie"
+  },
+  "provider": {
+    "providerId": "a",
+    "name": "Netflix",
+    "imgPath": "img/product_logo/netflix.png"
+  }
+},
+  {
+    "category": {
+      "id": "c",
+      "categoryName": "music"
+    },
+    "provider": {
+      "providerId": "b",
+      "name": "Genie",
+      "imgPath": "img/product_logo/genie.png"
+    }
+  },
+  {
+    "category": {
+      "id": "b",
+      "categoryName": "book"
+    },
+    "provider": {
+      "providerId": "c",
+      "name": "Millie",
+      "imgPath": "img/product_logo/millie.png"
+    }
+  },
+  {
+    "category": {
+      "id": "a",
+      "categoryName": "movie"
+    },
+    "provider":  {
+      "providerId": "d",
+      "name": "Watcha",
+      "imgPath": "img/product_logo/watcha.png"
+    }
+  },
+  {
+    "category": {
+      "id": "a",
+      "categoryName": "movie"
+    },
+    "provider":  {
+      "providerId": "e",
+      "name": "Movify",
+      "imgPath": "img/product_logo/movify.png"
+    }
+  },
+  {
+    "category": {
+      "id": "b",
+      "categoryName": "book"
+    },
+    "provider":  {
+      "providerId": "f",
+      "name": "Readify",
+      "imgPath": "img/product_logo/readify.png"
+    }
+  }
+]

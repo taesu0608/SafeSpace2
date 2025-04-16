@@ -1,0 +1,17 @@
+[{
+    "id": "a",
+    "categoryName": "movie"
+  },
+  {
+    "id": "b",
+    "categoryName": "book"
+  },
+  {
+    "id": "c",
+    "categoryName": "music"
+  },
+  {
+    "id": "d",
+    "categoryName": "etc"
+  }
+]

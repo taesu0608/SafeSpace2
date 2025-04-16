@@ -1,0 +1,32 @@
+[
+  {
+    "providerId": "a",
+    "name": "Netflix",
+    "imgPath": "/img/product_logo/netflex.png"
+  },
+  {
+    "providerId": "b",
+    "name": "Genie",
+    "imgPath": "/img/product_logo/genie.png"
+  },
+  {
+    "providerId": "c",
+    "name": "Millie",
+    "imgPath": "/img/product_logo/millie.png"
+  },
+  {
+    "providerId": "d",
+    "name": "Watcha",
+    "imgPath": "/img/product_logo/watcha.png"
+  },
+  {
+    "providerId": "e",
+    "name": "Movify",
+    "imgPath": "/img/product_logo/movify.png"
+  },
+  {
+    "providerId": "f",
+    "name": "Readify",
+    "imgPath": "/img/product_logo/readify.png"
+  }
+]
